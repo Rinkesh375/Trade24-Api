@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+//hello
 const stockSchema = mongoose.Schema({
      symbol: String,
      companyName: String,
